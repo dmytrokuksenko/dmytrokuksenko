@@ -15,10 +15,10 @@ to present perplexing topics to both technical & non-technical audiences as evid
 
 [![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 The statistics of my languages is:
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytrokuksenko)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 
 <!---
