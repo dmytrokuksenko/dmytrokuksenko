@@ -1,4 +1,6 @@
 Welcome to my GitHub profile ! 👋
+
+Professional Summary
                     
 ■	Highly motivated and goal-oriented Computational Scientist & aspiring Data Scientist with 7+ years of experience developing advanced scientific software for data-driven solutions 
 using Python and C/C++ with a passion of brining data-driven solutions to solve complex real-world problems
@@ -12,6 +14,11 @@ to present perplexing topics to both technical & non-technical audiences as evid
 
 
 [![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+The statistics of my languages is:
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytrokuksenko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
