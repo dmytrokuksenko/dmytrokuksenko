@@ -11,7 +11,7 @@ to present perplexing topics to both technical & non-technical audiences as evid
 
 
 
-[![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
