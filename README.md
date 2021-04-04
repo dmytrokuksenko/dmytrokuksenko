@@ -15,7 +15,8 @@ The statistics of my languages is:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytrokuksenko)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-Please feel free to reach out me via [email](kuksenko.dima@gmail.com)
+### Contact Information
+
 <a href="https://www.linkedin.com/in/dmytrokuksenko/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/dmytrokuksenko" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
 
