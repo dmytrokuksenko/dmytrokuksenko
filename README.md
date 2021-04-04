@@ -19,11 +19,13 @@ The statistics of my languages is:
 ## Programing Languages
 :white_check_mark: **Python**
 :white_check_mark: **C++**
-
+<br/>
 
 ## Contact Information
 
 <a href="https://www.linkedin.com/in/dmytrokuksenko/" target="_blank"><img src="https://raw.githubusercontent.com/dmytrokuksenko/dmytrokuksenko/master/images/linkedin.png" alt="LinkedIn" width="30"></a>
+
+## Profile Statistics
 
 [![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
