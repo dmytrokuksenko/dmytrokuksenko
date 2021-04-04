@@ -19,6 +19,7 @@ The statistics of my languages is:
 ## Programing Languages
 :white_check_mark: **Python**
 :white_check_mark: **C++**
+:white_check_mark: **MATLAB**
 <br/>
 
 ## Contact Information
