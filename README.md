@@ -1,13 +1,13 @@
-# Howdy and Welcome to my GitHub! 👋
+# Welcome to my GitHub! :wave:
 
 ### Professional Summary
                     
--	Highly motivated and goal-oriented Computational Scientist & aspiring Data Scientist with 7+ years of experience developing advanced scientific software for data-driven solutions using Python and C/C++ with a passion of brining data-driven solutions to solve complex real-world problems
+:white_check_mark:	Highly motivated and goal-oriented **Computational Scientist** & aspiring **Data Scientist** with 7+ years of experience developing advanced scientific software for data-driven solutions using **Python** and **C++** with a passion of brining data-driven solutions to solve complex real-world problems
 
--	Detailed-oriented problem solver with strong analytical and software development skills gained 
+:white_check_mark:	Detailed-oriented **problem solver** with **strong analytical and software development skills** gained 
 by applying scientific methods to a wide array of complex problems resulting in 9 scholarly papers
 
--	An excellent collaborator with outstanding communication skills and the ability 
+:white_check_mark:	An **excellent collaborator** with **outstanding communication skills** and the ability 
 to present perplexing topics to both technical & non-technical audiences as evidenced by presenting > 10 conferences at national and international levels
 
 <!---
@@ -21,4 +21,4 @@ Please feel free to reach out me via [email](kuksenko.dima@gmail.com)
 
 [![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytrokukseno&color=brightgreen" alt="Dmytro Kuksenko" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytrokukseno&color=brightgreen" alt="dmytrokuksenko" /> </p>
