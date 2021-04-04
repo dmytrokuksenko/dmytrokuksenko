@@ -17,8 +17,10 @@ The statistics of my languages is:
 
 ### Contact Information
 
-<a href="https://www.linkedin.com/in/dmytrokuksenko/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/dmytrokuksenko" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
+<a href="https://www.linkedin.com/in/dmytrokuksenko/" target="_blank"><img src="https://raw.githubusercontent.com/dmytrokuksenko/dmytrokuksenko/master/images/linkedin.png" alt="LinkedIn" width="30"></a>
+
+<a href="kuksenko.dima@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/dmytrokuksenko/dmytrokuksenko/master/images/email.png" alt="LinkedIn" width="30"></a>
+<a href="(575)339-9662" target="_blank"><img src="https://raw.githubusercontent.com/dmytrokuksenko/dmytrokuksenko/master/images/phone.png" alt="LinkedIn" width="30"></a>
 
 [![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
