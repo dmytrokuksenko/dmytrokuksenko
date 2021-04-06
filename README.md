@@ -29,5 +29,6 @@ The statistics of my languages is:
 ## Profile Statistics
 
 [![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrokuksenko&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytrokuksenko&theme=dark)](https://github.com/dmytrokuksenko/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytrokukseno&color=brightgreen" alt="dmytrokuksenko" /> </p>
