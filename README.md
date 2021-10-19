@@ -1,8 +1,7 @@
 # Welcome to my GitHub! :wave:
 
-## Professional Summary
-                    
--	Goal-oriented **Computational Scientist** & **Software Engineer** with experience developing cutitng-edge scientific software packages (**Python**/**C++**) to address pressing real-world problems.
+
+I am a goal-oriented **Computational Scientist** & **Software Engineer** with experience developing cutitng-edge scientific software packages (**Python**/**C++**) to address pressing real-world problems.
 
 <!---
 The statistics of my languages is:
