@@ -11,7 +11,9 @@ The statistics of my languages is:
 
 ## Programing Languages
 :white_check_mark: **Python**
-:white_check_mark: **C++**
+:white_check_mark: **C/C++**
+:white_check_mark: **FORTRAN**
+:white_check_mark: **CUDA**
 <br/>
 
 ## Contact Information
