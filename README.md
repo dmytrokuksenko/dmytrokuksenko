@@ -13,6 +13,7 @@ The statistics of my languages is:
 :white_check_mark: **Python**
 :white_check_mark: **C/C++**
 :white_check_mark: **FORTRAN**
+:white_check_mark: **MATLAB**
 :white_check_mark: **CUDA**
 <br/>
 
